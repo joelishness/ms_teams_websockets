@@ -9,6 +9,11 @@ All sensors offered by the API are available.
 
 Buttons are also offered to provide access to actions which are available using the API.
 
+> [!IMPORTANT]
+> This Websockets Integration is for "Classic Teams".
+> Not compatible with "New Teams", as API token can no longer be generated within the Teams app.
+> An alternative for "New Teams" can be found here: https://github.com/AntoineGS/teams-status-rs
+
 ## Installation
 
 Either:
